@@ -1,2 +1,3 @@
 # roboSpeaker
-A simple project which speak the text we enter 
+A simple project which speaks the text we enter 
+Just enter the text and it will speak for you
